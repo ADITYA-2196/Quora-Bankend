@@ -1,0 +1,24 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: rgb(241, 253, 215);
+    width:200px;
+    height:200px;
+    border:5px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 8px 10px black;
+}
+.post:hover{
+    box-shadow: 0 8px 16px rgb(149, 221, 241);
+}
+
+.user{
+    font-style: italic;
+    padding: 0 2px 0 2px;
+}
+.content{
+    padding: 0 2px 0 2px;
+}
